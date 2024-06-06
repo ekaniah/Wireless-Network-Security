@@ -1,0 +1,49 @@
+### Part #2 - Configure and Secure Wireless Devices
+
+#### Time for Lab Completion:
+
+1hr, 21mins
+
+#### Purpose of the Lab:
+The purpose of this lab is to teach one how to
+Set a static IP address in Windows 10 
+Configure the Windows 10 computer to use DHCP to set the IP. 
+Test connectivity between the two Windows 10 clients. 
+Configure a wireless router using an online emulator.
+
+#### What did you enjoy about the lab?
+
+I enjoyed the simple and easy to follow instructions in the lab
+
+#### What did you find most challenging about the lab?
+
+I did not encounter any challenge while performing this lab.
+
+Discussion Questions
+1.	What is command-line tool in Windows to review the network configuration of network interface card?
+ipconfig
+2.	What is the default gateway?
+The default gateway is the router’s ip address 192.168.1.1
+A default gateway is a network node that serves as an access point or IP router
+that a networked computer uses to send information to another computer on a different network or the internet.
+3.	What is the difference between a static vs dynamic IP address?
+Static ip address is manually assigned by an administrator on a network will Dynamic ip address is automatically assigned by the server.
+Discussion Questions
+1.	What is the Windows Firewall?
+A firewall is an indispensable network tool for filtering packet traffic on a network.
+2.	What is the command-line tool used to test for connectivity?
+ipconfig
+Discussion Questions
+1.	What is the SSID that you will set on the router?
+aniah
+2.	What WPA version are you using on this Linksys router?
+WPA2
+3.	What is the purpose of the MAC address settings?
+The purpose of the MAC address settings is to enable the administrator set the MAC addresses of the Devices that are allowed or permitted to connect to the Router.
+
+
+
+
+
+
+
