@@ -1,0 +1,58 @@
+# Lab Title: Wireless Network
+
+## Date: 06/01/2024
+
+## Lab Overview:
+Wireless Network
+This lab teaches one how to use Wireshark to explore network traffic and produce a network capture file. 
+Then, learn to configure and secure wireless devices over two virtual machines.
+---
+
+### Part 1 - Examining Wireless Network
+
+#### Time for Lab Completion:
+1hrs, 21mins
+
+#### Purpose of the Lab:
+
+This lab teaches one how to analyze a network capture file containing wireless traffic.
+Examine protocols, IP addresses, MAC addresses, as well as analyze other information from traffic.
+Also how to extract an image from http traffic. 
+
+#### What did you enjoy about the lab?
+
+I enjoyed the simple and easy to follow directions.
+
+#### What did you find most challenging about the lab?
+
+I found reading the very tiny prints on the Display filter very challenging
+
+Discussion Questions A
+1.	What is Wireshark?
+2.	Wireshark is a tool for capturing and analyzing network traffic on a network.
+3.	What is a pcap file?
+A PCAP (Packet Capture) file is a data file that contains network packet data captured by a packet sniffing tool. These files are used to store network traffic data that has been captured from a network interface, and they are commonly used for network analysis, troubleshooting, and forensics.
+4.	What is SSID?
+Service Set Identifier is a unique identifier attached to the header of packets sent over a wireless local area network (WLAN).
+Discussion Questions B
+1.	What is FTP?
+File Transfer Protocol is a clear text protocol used to transfer files between systems.
+2.	What is POP?
+Post Office Protocol is an application layer Internet protocol used by local e-mail clients to retrieve e-mail from a remote server over a TCP/IP connection.
+3.	What is Telnet?
+Telnet is a network protocol used to provide bidirectional interactive text-based communication over a network. It allows users to remotely access and manage a device, typically a server or network device, by connecting to its command-line interface (CLI).
+Discussion Questions C
+1.	What is the HTTP protocol?
+HTTP (HyperText Transfer Protocol) is a protocol used for transmitting hypertext over the internet. It is the foundation of any data exchange on the Web and is a protocol used for communication between a web browser and a web server.
+2.	What is a TCP stream?
+A TCP stream is a sequence of packets exchanged between two devices typically, a server and a client over a network connection.
+3.	What is a PDF file?
+A PDF (Portable Document Format) file is a versatile file format created by Adobe that gives people an easy, reliable way to present and exchange documents - regardless of the software, hardware, or operating systems used by anyone who views the document.
+
+
+
+
+
+---
+
+
